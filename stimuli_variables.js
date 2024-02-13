@@ -1,3 +1,4 @@
+var stimuli_variables =
 [
   {
     "Target": "3bali",
